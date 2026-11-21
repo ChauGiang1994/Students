@@ -1,0 +1,6 @@
+{
+  "name": "Hành trình khám phá Điện Biên Phủ 1954",
+  "description": "Học liệu số tương tác mô phỏng 3D kết hợp kéo thả giúp học sinh lớp 5 khám phá lược đồ, ba đợt tiến công và câu chuyện kéo pháo trong chiến dịch Điện Biên Phủ năm 1954.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
